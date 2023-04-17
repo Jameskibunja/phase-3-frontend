@@ -1,0 +1,7 @@
+.chat-list {
+    width: 30%;
+    max-width: 350px;
+    height: 100%;
+    border-right: 1px solid #ddd;
+    overflow-y: auto;
+  }

@@ -1,0 +1,11 @@
+.message-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .message-text {
+    padding: 10px;
+    background-color: #dcf8c6;
+    border-radius: 7px;
+  }
